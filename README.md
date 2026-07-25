@@ -1,2 +1,3 @@
-# brahmi_script_formalization
-Agda formalization of language orthographies
+# Brahmi Script Formalization
+
+Agda formalization of language orthographies.
